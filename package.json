@@ -1,0 +1,7 @@
+{
+  "name": "requireJSTest",
+  "version": "0.1.0",
+  "dependencies": {
+    "grunt-contrib-requirejs": "^0.4.4"
+  }
+}
